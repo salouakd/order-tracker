@@ -50,7 +50,7 @@ export default defineEventHandler(async (event) => {
       'Content-Type': 'application/json'
     },
     body: JSON.stringify({
-      target_url: config.youcanWebhookUrl,
+      target_url: process.env.YOUCAN_WEBHOOK_URL,
       event: 'order.create',
     })
   });

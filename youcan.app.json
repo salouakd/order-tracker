@@ -1,0 +1,15 @@
+{
+    "name": "order-tracker",
+    "id": "dapp_2b8zbj5B7mswKEMkq7H2d2TEv44",
+    "app_url": "https://39fb-102-50-248-53.ngrok-free.app",
+    "redirect_urls": [
+        "https://39fb-102-50-248-53.ngrok-free.app/auth/callback",
+        "https://seller-area.youcanshop.dev/admin/apps/draft/authorization-callback/dapp_2b8zbj5B7mswKEMkq7H2d2TEv44"
+    ],
+    "oauth": {
+        "scopes": [
+            "*"
+        ],
+        "client_id": "45"
+    }
+}

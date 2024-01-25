@@ -28,6 +28,7 @@
     "@youcan/ui-vue3": "^2.4.13",
     "isbot": "^4.2.0",
     "jsonwebtoken": "^9.0.2",
+    "twilio": "^4.20.1",
     "uuid": "^9.0.1"
   }
 }
